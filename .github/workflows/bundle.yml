@@ -3,7 +3,7 @@ name: Process manifests
 on:
   push:
     branches:
-      - dev
+      - hedger-main
   pull_request:
 
 jobs:
